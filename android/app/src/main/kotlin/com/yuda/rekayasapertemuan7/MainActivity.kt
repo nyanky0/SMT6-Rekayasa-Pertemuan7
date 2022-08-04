@@ -1,4 +1,4 @@
-package com.example.rekayasa_pertemuan7_yuda
+package com.yuda.rekayasapertemuan7
 
 import io.flutter.embedding.android.FlutterActivity
 

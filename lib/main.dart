@@ -200,6 +200,7 @@ class _home_screenState extends State<home_screen> {
               Column(
                 children: <Widget>[
                   GridView.count(
+                    physics: ScrollPhysics(),
                     shrinkWrap: true,
                     crossAxisCount: 2,
                     children: <Widget>[

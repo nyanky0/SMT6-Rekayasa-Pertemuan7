@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.rekayasa_pertemuan7_yuda">
+    package="com.yuda.rekayasapertemuan7">
    <application
-        android:label="rekayasa_pertemuan7_yuda"
+        android:label="Yuda - Rekayasa Pertemuan 7"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
